@@ -1,7 +1,7 @@
 #include stdio.h
 
 int main (void)
-  scp = 0
+  int scp = 0;
     {
     if (scp >= 0);
     printf ("ねこです。よろしくおねがいします。");
